@@ -12,8 +12,8 @@ owner:
   bio: "A brief description of yourself."
   email: cwpark@gwu.edu
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: chulwoo_charles
+  facebook: chulwoo.c.park
   google:
     plus: #username
     analytics:
@@ -23,7 +23,7 @@ owner:
   bing-verify:
   github: #username
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: chulwoopark
   xing: #username
   instagram: #username
   lastfm: #username
