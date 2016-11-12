@@ -12,13 +12,12 @@ __Milken Institute School of Public Health, George Washington University__
 `May 2015`
 Master of Science in Public Health (MSPH), International Health, Program in Global Disease Epidemiology and Control at
 __Johns Hopkins Bloomberg School of Public Health (JHSPH)__
-Degree Awarded
 
 `Aug. 2013`
 Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology
 Bachelor of Science (BS), International Studies, Program in Global Health                                        
 __University of Utah__
-Degree Awarded 
+ 
 
 ## Awards
 
