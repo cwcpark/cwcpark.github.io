@@ -3,7 +3,8 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Doctor of Public Health (DrPH) Student & Graduate Teaching Assistant, Department of Global Health, Aug. 2016 - Present
+
 
 ## Education
 
