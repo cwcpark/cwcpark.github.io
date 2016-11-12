@@ -3,17 +3,19 @@ layout: resume
 ---
 ## Currently
 
-Doctor of Public Health (DrPH) Student & Graduate Teaching Assistant, Department of Global Health, Aug. 2016 - Present
-
+`Aug. 2016 - Present`
+Doctor of Public Health (DrPH) Student & Graduate Teaching Assistant, Department of Global Health
+__Milken Institute School of Public Health, George Washington University __
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`May 2015`
+Master of Science in Public Health (MSPH), International Health, Program in Global Disease Epidemiology and Control
+__Johns Hopkins Bloomberg School of Public Health (JHSPH)__
 Degree Awarded
 
-`1995 - 1997`
-__University Name__
+`Aug. 2013`
+__University of Utah__
 Degree Awarded 
 
 ## Awards
