@@ -8,7 +8,7 @@ url:
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
   name: Chulwoo Charles Park
-  avatar: Chulwoo_Park.jpg
+  avatar: bio-photo.jpg
   bio: "DrPH Student at Milken Institute School of Public Health, George Washington University"
   email: cwpark@gwu.edu
   disqus-shortname:
