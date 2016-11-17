@@ -1,19 +1,12 @@
 ---
 layout: page
 ---
-## Currently
 
-### Aug. 2016 - Present  
-Doctor of Public Health (DrPH) Student & Graduate Teaching Assistant, Department of Global Health  
-__Milken Institute School of Public Health, George Washington University__
+### Manuscripts under Reviews  
+1. Park, C., Martirosyan, A., Jones, E. & Opong, E. “Lives Saved Tool (List) Analysis for Comparative Study: World Vision’s Water, Sanitation, and Hygiene Program in Malawi, Mozambique and Zambia” at BMC Public Health  
+2. Martirosyan, A. & Park, C. “How to Use Lives Saved Tool at Subnational Level?” at BMC Public Health  
+3. Poteat, T., Park, C., Juan, D., Diego, S. & Vazzano, A. “Changing Heart and Minds: Results from a Multi-Country Gender and Sexual Diversity Education & Training” at International Journal of Epidemiology
 
-## Education
+## Working Papers
 
-May 2015
-Master of Science in Public Health (MSPH), International Health, Program in Global Disease Epidemiology and Control at
-__Johns Hopkins Bloomberg School of Public Health (JHSPH)__
-
-Aug. 2013
-Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology
-Bachelor of Science (BS), International Studies, Program in Global Health                                        
-__University of Utah__
+1. Park, C., Perry, H. “Monitoring and Evaluation of World Relief Cambodia Project  
