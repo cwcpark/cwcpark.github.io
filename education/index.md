@@ -7,8 +7,8 @@ Doctor of Public Health (DrPH) Student & Graduate Teaching Assistant
 Department of Global Health  
 __Milken Institute School of Public Health, George Washington University__  
 
-Certificates:  
-1. Nov. 2016: Adult and Pediatric First Aid/CPR/AED, American Red Cross 	
+__First Aid Certificates:__  
+1. Nov. 2016: Adult and Pediatric First Aid/CPR/AED, American Red Cross  
 2. Nov. 2016: Youth Mental Health First Aid USA, National Council for Behavioral Health
 
 
@@ -17,8 +17,8 @@ Master of Science in Public Health (MSPH)
 International Health, Program in Global Disease Epidemiology and Control  
 __Johns Hopkins Bloomberg School of Public Health (JHSPH)__  
 
-JHSPH Certificates:  
-1. May 2015: Public Health Informatics, Department of Health Policy and Management
+__JHSPH Certificates:__  
+1. May 2015: Public Health Informatics, Department of Health Policy and Management  
 2. May 2014: Health Finance and Management, Department of Health Policy and Management
 
 
