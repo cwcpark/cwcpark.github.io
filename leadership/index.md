@@ -2,11 +2,11 @@
 layout: page
 ---
 
-### Weblog “Africa with Us” (URL: http://africawithcharles.blogspot.com) (May 2014 - Present)
+###        Weblog “Africa with Us” (URL: http://africawithcharles.blogspot.com) (May 2014 - Present)
 * Share my global and domestic experiences about global health leadership, health education, ECD projects, immigrant and refugee health, gender equality and human rights in personal blog. Posted 164 stories as of October 29th 2016.
 
 ### Organizer of Science Conference (Mar. 2012 - Jan. 2014)
-__Young Generation Technical & Leadership Conference 2012, 2013, 2014, U.S.__  
+__Young Generation Technical & Leadership Conference 2012, 2013, 2014, U.S.__   
 * Launched first science conference for 1st generation of Korean international students in the U.S. and helped them to connect and get involved in Korean-American Scientists and Engineers Association activities in Chicago, IL.  
 * Won Best Essay Award, “Africa with Us,” 1st Place Prize in recognition of exceptional achievement in Los Angeles, CA.  
 * Organized Graduate Track Committee for Korean-American young professionals and students. Motivated students to prepare and present their own research topics to audience and scheduled guest speaker sessions in Houston, TX.  
