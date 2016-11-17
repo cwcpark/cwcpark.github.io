@@ -2,10 +2,10 @@
 layout: page
 ---
 
-1. Award Winner of Graduate Assistantship with University Fellowship (fully funded scholarship)  
+1. Award Winner of Graduate Assistantship with University Fellowship (fully funded scholarship), George Washington University  
 Fall 2016 - Spring 2018  
 
-2. Selected as Distinguished Alumni of College of Humanities at University of Utah  
+2. Selected as Distinguished Alumni of College of Humanities, University of Utah  
 May 2013  
 
 3. Inaugural International Center Scholarship, University of Utah     
@@ -14,7 +14,7 @@ May 2013
 4. College of Humanities Scholarship, University of Utah              
 2012-13 Academic Year  
 
-5. Selected as College of Humanities banner carrier at University of Utah’s 15th President Inauguration  
+5. Selected as College of Humanities banner carrier, University of Utah’s 15th President Inauguration  
 Oct. 2012  
 
 6. Study Abroad Scholarship for Ghana Global Health, University of Utah  
