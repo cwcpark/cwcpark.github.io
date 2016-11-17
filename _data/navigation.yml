@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Blog
+  url: http://africawithcharles.blogspot.com/
+
 - title: Education
   url: /education/
 
@@ -20,6 +23,3 @@
 
 - title: Honors & Awards
   url: /honors-awards/
-
-- title: Blog
-  url: http://africawithcharles.blogspot.com/
