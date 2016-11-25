@@ -21,6 +21,6 @@ __Republic of Korea Air Force, South Korea__
 
 ### Local Committee President & Human Resource National Vice President
 Oct. 2004 - Sept. 2006  
-__AIESEC (Association Internationale des Étudiants en Sciences Économiques et Commerciales)South Korea__  
+__AIESEC (Association Internationale des Étudiants en Sciences Économiques et Commerciales), South Korea__  
 * Held Pusan Local Committee President position in 2005 and Human Resource National Vice President position in 2006 consecutively at AIESEC Korea, global not-for-profit organization in 126 countries providing education and internship opportunities for university students to eradicate extreme poverty and hunger around the globe.  
 * Launched, organized and managed AIESEC’s global leadership conferences: 2005 Korea-Japan-Taiwan International Conference in Fukuoka, Japan, and 2006 National Leadership Development Seminar in Seoul, South Korea.
