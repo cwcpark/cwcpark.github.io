@@ -10,7 +10,7 @@ __Multi-Organization’s Community-Based Impact-Oriented (CBIO) Child Survival P
 * Conduct independent study to estimate impact of CBIO Child Survival Projects for Cambodia (World Relief), Guatemala (Curamericas Global), and Mozambique (Food for the Hungry International). Enhance quantitative analysis to estimate reduction in mortality by intervention, number of under-5 cases averted by cause relative to impact year, additional death prevented, and percent reduction of stunting and wasting by using LiST (PI: Dr. Henry Perry, JHSPH).
 
 ### Consultant
-Aug. 2015 - Mar. 2016  
+Aug. 2015 - Mar. 2016//
 
 __Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Training  	Washington, D.C.__  
 
