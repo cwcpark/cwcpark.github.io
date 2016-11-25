@@ -2,9 +2,8 @@
 layout: page
 ---
 
-###Weblog [link][“Africa with Us”]
+###Weblog ["Africa with Us"] (http://africawithcharles.blogspot.com)
 
-[“Africa with Us”]: http://africawithcharles.blogspot.com
 May 2014 - Present  
 * Share my global and domestic experiences about global health leadership, health education, ECD projects, immigrant and refugee health, gender equality and human rights in personal blog. Posted 164 stories as of October 29th 2016.
 
