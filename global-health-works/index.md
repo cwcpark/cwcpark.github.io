@@ -12,7 +12,7 @@ __Multi-Organization’s Community-Based Impact-Oriented (CBIO) Child Survival P
 ### Consultant
 Aug. 2015 - Mar. 2016//
 
-__Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Training  	Washington, D.C.__  
+__Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Training, Washington, D.C.__  
 
 * Provided technical assistant to conduct mixed methods pre-post study for “Multi-Country GSD Education & Training,” granted by the United States President’s Emergency Plan for AIDS Relief (PEPFAR). Operated research team to measure knowledge and attitude of PEPFAR staff, local government staff, United Nations staff, and external partners towards health equity and human rights for gender and sexual minorities: lesbian, gay, bisexual and transgender (LGBT) and men who have sex with men (MSM).  
 * Conducted high-quality quantitative analytical work to interpret 2,825 participants’ data by using statistical software, STATA. Produced written, tabular and visual materials for research reports and presentations to evaluate GSD Trainings in 38 selected developing countries, with collaboration from JHSPH (PI: Dr. Tonia Poteat, JHSPH).  
@@ -20,7 +20,7 @@ __Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Trainin
 ### Family Mentor
 June 2015 - Feb. 2016  
 
-__International Rescue Committee (IRC): Mentor Program for Refuge Family	Baltimore, Catonsville, MD__  
+__International Rescue Committee (IRC): Mentor Program for Refuge Family,	Baltimore, Catonsville, MD__  
 
 * Coached Eritrean refugee family by teaching English, mathematics, and science, conducting employment training, and connecting to social/health services to help them adjust to new environment in Baltimore. Recruited new IRC family mentors to extend outreach to refugee populations in Baltimore and Catonsville.  
 * Executed free health care and medical activities for 700 resettled refugees in Baltimore’s Nepalese and Bhutanese community, one of the largest refugee groups in the U.S.  
@@ -29,7 +29,7 @@ __International Rescue Committee (IRC): Mentor Program for Refuge Family	Baltimo
 ### Research Assistant
 June 2015 - Dec. 2015  
 
-__International Vaccine Access Center (IVAC): Meningococcal Disease Project	Baltimore, MD__  
+__International Vaccine Access Center (IVAC): Meningococcal Disease Project,	Baltimore, MD__  
 
 * Analyzed, extracted data and conducted systematic literature review for “Global Estimation of Disease Burden of Meningococcal Disease Project” to find out risk of meningococcal disease among HIV positive patients. Assisted with larger meningococcal burden project.  
 * Assembled, refined thousands of IVAC database for overview of meningococcal meningitis epidemics and vaccine distribution by country and year. Compiled global history of meningitis and researched WHO’s Immunization Repository database and Global Outbreak Alert and Response Network (PI: Dr. Maria Knoll, JHSPH).  
@@ -37,7 +37,7 @@ __International Vaccine Access Center (IVAC): Meningococcal Disease Project	Balt
 ### Research Assistant
 June 2015 - Sept. 2015  
 
-__University of Maryland (UMD) School of Public Health: TOGETHER Education Program	College Park, MD__  
+__University of Maryland (UMD) School of Public Health: TOGETHER Education Program, College Park, MD__  
 
 * Designed, conducted quasi-experimental study, “Together Overcome and Get Empowered Through Health Education and Relationships (TOGETHER) Education Program,” granted by National Cancer Institute (R21). Developed linguistically, culturally tailored social and behavioral education interventions that reduce breast cancer disparity among underserved Korean-Americans.  
 * Expanded outreach to Korean-American communities to recruit intervention group in Maryland and control group in Virginia for creating cohort of Korean-American breast cancer survivors who had benefits from TOGETHER 7-week breast cancer education program (PI: Dr. Sunmin Lee, UMD School of Public Health).  
@@ -45,7 +45,7 @@ __University of Maryland (UMD) School of Public Health: TOGETHER Education Progr
 ## Research Assistant for Public Health Informatics
 Jan. 2015 - May 2015  
 
-__JHSPH: mobile Health (mHealth) Project in Mali	Baltimore, MD__  
+__JHSPH: mobile Health (mHealth) Project in Mali,	Baltimore, MD__  
 
 * Designed, conducted quasi-experimental study, “Virtual Community Health Services for Equity and Quality in Health Care in Mali,” granted by National Institutes of Health (R21). Developed mHealth intervention package and assessed effectiveness of intervention package for community health workers in the Sélingué Health District, Mali.  
 * Orchestrated strategy for “Improving comprehensive transport system with mHealth for maternal emergencies in low- and middle-income countries” and “Increasing household phone ownership among pregnant women in rural area” by analyzing all relevant studies and by undertaking meta-analysis (PI: Dr. Peter Winch, JHSPH).  
