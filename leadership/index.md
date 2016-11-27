@@ -2,6 +2,16 @@
 layout: page
 ---
 
+### Teaching Assistance Experience
+
+1. Fall 2016  
+* Comparative Global Health Systems
+* Public Health in Complex Emergencies  
+2. Fall 2017  
+* Global Health Quantitative Research Methods
+* Nutrition, Food Security, and Communicable Disease Control on Complex Emergencies  
+
+
 ### Weblog Link: ["Africa with Us"](http://africawithcharles.blogspot.com target="_blank")
 May 2014 - Present  
 * Share my global and domestic experiences about global health leadership, health education, ECD projects, immigrant and refugee health, gender equality and human rights in personal blog. Posted 164 stories as of October 29th 2016.
