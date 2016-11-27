@@ -2,6 +2,15 @@
 layout: page
 ---
 
+### Teaching Assistance Experience
+
+1. Fall 2016  
+* Comparative Global Health Systems
+* Public Health in Complex Emergencies  
+2. Fall 2017  
+* Global Health Quantitative Research Methods
+* Nutrition, Food Security, and Communicable Disease Control on Complex Emergencies  
+
 ### Consultant (Oct. 2015 - Present)
 __Multi-Organization’s Community-Based Impact-Oriented (CBIO) Child Survival Projects__
 
