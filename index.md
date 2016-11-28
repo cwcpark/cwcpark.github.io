@@ -14,4 +14,6 @@ Doctor of Public Health (DrPH) student and teaching assistant studying Global He
 * Monitoring and Evaluation of Maternal and Child Health Projects in Sub-Saharan Africa
 * Comparative Global Health Systems 
 * Humanitarian Aid and Development Assistance 
+* Health Finance and Management, Health Economics
+* Public Health Informatics, mobile Health
 
