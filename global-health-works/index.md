@@ -81,7 +81,7 @@ __University of Utah: Independent Study & Research for Thailand Health Promotion
 * Improved “Evidence-based Parenting and Family Skills Programs” for Thai family health promotion and Early Childhood Development (ECD) by researching how to prevent substance abuse, crime, family violence, alcoholism, and child maltreatment both in urban area, Bangkok, and in rural area, Chiang Rai and Hat Yai, Thailand.  
 * Traveled Thailand-Burma border area and held education sessions for community members to upgrade “Strengthening Family Program” and to enhance their quality of family life (PI: Dr. Karol Kumpfer, University of Utah).  
 
-### Peer Advisor Aug. (2011 - May 2012)
+### Peer Advisor (Aug. 2011 - May 2012)
 __International Studies Program Office, University of Utah, Salt Lake City, UT__
 
 * Developed International Studies academic curriculum by working closely with academic advisor. Advised 20 undergraduate students of International Studies to select relevant courses and find future careers.
