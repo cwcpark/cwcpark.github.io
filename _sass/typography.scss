@@ -18,6 +18,7 @@ h2 {
 }
 h3 {
 	@include font-size(24);
+	color: $name-color;
 }
 h4 {
 	@include font-size(18);
