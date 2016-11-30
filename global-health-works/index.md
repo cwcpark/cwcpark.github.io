@@ -4,11 +4,12 @@ layout: page
 
 ### Teaching Assistance Experience
 __Milken Institute School of Public Health, George Washington University__  
+
 * Fall 2016  
-- Comparative Global Health Systems (with Dr. Seble Frehywot)
+- Comparative Global Health Systems (with Dr. Seble Frehywot)  
 - Public Health in Complex Emergencies (with Dr. Ron Waldman)  
 * Spring 2017  
-- Global Health Quantitative Research Methods (with Dr. Jack Sandberg)
+- Global Health Quantitative Research Methods (with Dr. Jack Sandberg)  
 - Nutrition, Food Security, and Communicable Disease Control on Complex Emergencies (with Dr. Ron Waldman)  
 
 ### Consultant (Oct. 2015 - Present)
