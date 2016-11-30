@@ -4,7 +4,6 @@ layout: page
 
 ### Teaching Assistance Experience
 __Milken Institute School of Public Health, George Washington University__  
-
 1. Fall 2016  
 * Comparative Global Health Systems (with Dr. Seble Frehywot)
 * Public Health in Complex Emergencies (with Dr. Ron Waldman)  
