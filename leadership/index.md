@@ -8,7 +8,7 @@ layout: page
 
 ### Organizer of Science Conference
 
-`Mar. 2012 - Jan. 2014` __Young Generation Technical & Leadership Conference 2012, 2013, 2014, U.S.__  
+`Mar.2012-Jan.2014` __Young Generation Technical & Leadership Conference 2012, 2013, 2014, U.S.__  
 
 * Launched first science conference for 1st generation of Korean international students in the U.S. and helped them to connect and get involved in Korean-American Scientists and Engineers Association activities in Chicago, IL.  
 * Won Best Essay Award, “Africa with Us,” 1st Place Prize in recognition of exceptional achievement in Los Angeles, CA.  
