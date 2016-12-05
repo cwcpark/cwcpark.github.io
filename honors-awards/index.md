@@ -4,17 +4,17 @@ layout: page
 
 ### Scholarships
 
-1. Award Winner of Graduate Assistantship with University Fellowship (fully funded scholarship), George Washington University 
+1. __Award Winner of Graduate Assistantship with University Fellowship (fully funded scholarship)__, George Washington University
 Fall 2016 - Spring 2018  
-2. Inaugural International Center Scholarship, University of Utah     
+2. __Inaugural International Center Scholarship__, University of Utah     
 2012-13 Academic Year  
-3. College of Humanities Scholarship, University of Utah              
+3. __College of Humanities Scholarship__, University of Utah              
 2012-13 Academic Year  
-4. Study Abroad Scholarship for Ghana Global Health, University of Utah  
+4. __Study Abroad Scholarship for Ghana Global Health__, University of Utah  
 Summer 2012  
-5. Korean-American Scientists and Engineers Association Scholarship  
+5. __Korean-American Scientists and Engineers Association Scholarship__  
 May 2012     
-6. Study Abroad Scholarship for Thailand Health Promotion, University of Utah   
+6. __Study Abroad Scholarship for Thailand Health Promotion__, University of Utah   
 Winter 2011                               	    
 
 
