@@ -17,7 +17,7 @@ layout: page
 
 ### Staff Sergeant & Airman Representative (Delta 31)
 
-`May2008-July 2010` __Republic of Korea Air Force, South Korea__  
+`May2008-July2010` __Republic of Korea Air Force, South Korea__  
 
 * Served full-time at Republic of Korea Air Force more than two years in Daegu, South Korea. Established mission driven-solutions with fellow soldiers for developing communication loop between subordinates and their superiors.  
 * Named exemplary Airman (Dec. 2009). Received prize for Short Novel: “The Dance,” runner-up at Ministry of National Defense Literature Contest (Nov. 2009). Won first place in Book Report Speech Contest (Nov. 2009). Won third place in Patriotism Speech Contest (July 2009).   
