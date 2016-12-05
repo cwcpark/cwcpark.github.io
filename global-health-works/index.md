@@ -20,7 +20,7 @@ __Milken Institute School of Public Health, George Washington University__
 
 
 ### Consultant  
-`Aug. 2015 - Mar. 2016)` __Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Training, Washington, D.C.__  
+`Aug. 2015 - Mar. 2016` __Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Training, Washington, D.C.__  
 
 * Provided technical assistant to conduct mixed methods pre-post study for “Multi-Country GSD Education & Training,” granted by the United States President’s Emergency Plan for AIDS Relief (PEPFAR). Operated research team to measure knowledge and attitude of PEPFAR staff, local government staff, United Nations staff, and external partners towards health equity and human rights for gender and sexual minorities: lesbian, gay, bisexual and transgender (LGBT) and men who have sex with men (MSM).  
 * Conducted high-quality quantitative analytical work to interpret 2,825 participants’ data by using statistical software, STATA. Produced written, tabular and visual materials for research reports and presentations to evaluate GSD Trainings in 38 selected developing countries, with collaboration from JHSPH (PI: Dr. Tonia Poteat, JHSPH).  
@@ -35,14 +35,14 @@ __Milken Institute School of Public Health, George Washington University__
 
 
 ### Research Assistant  
-`June 2015 - Dec. 2015)` __International Vaccine Access Center (IVAC): Meningococcal Disease Project,	Baltimore, MD__  
+`June 2015 - Dec. 2015` __International Vaccine Access Center (IVAC): Meningococcal Disease Project,	Baltimore, MD__  
 
 * Analyzed, extracted data and conducted systematic literature review for “Global Estimation of Disease Burden of Meningococcal Disease Project” to find out risk of meningococcal disease among HIV positive patients. Assisted with larger meningococcal burden project.  
 * Assembled, refined thousands of IVAC database for overview of meningococcal meningitis epidemics and vaccine distribution by country and year. Compiled global history of meningitis and researched WHO’s Immunization Repository database and Global Outbreak Alert and Response Network (PI: Dr. Maria Knoll, JHSPH).  
 
 
 ### Research Assistant  
-`June 2015 - Sept. 2015)` __University of Maryland (UMD) School of Public Health: TOGETHER Education Program, College Park, MD__  
+`June 2015 - Sept. 2015` __University of Maryland (UMD) School of Public Health: TOGETHER Education Program, College Park, MD__  
 
 * Designed, conducted quasi-experimental study, “Together Overcome and Get Empowered Through Health Education and Relationships (TOGETHER) Education Program,” granted by National Cancer Institute (R21). Developed linguistically, culturally tailored social and behavioral education interventions that reduce breast cancer disparity among underserved Korean-Americans.  
 * Expanded outreach to Korean-American communities to recruit intervention group in Maryland and control group in Virginia for creating cohort of Korean-American breast cancer survivors who had benefits from TOGETHER 7-week breast cancer education program (PI: Dr. Sunmin Lee, UMD School of Public Health).  
@@ -56,7 +56,7 @@ __Milken Institute School of Public Health, George Washington University__
 
 
 ### Global Health Fellow & Counselor  
-`May 2014 - June 2015)` __World Vision International__  
+`May 2014 - June 2015` __World Vision International__  
 
 1. Water, Sanitation, and Hygiene (WASH) Program	Zambia, Malawi, Mozambique, U.S.  
 * Designed, conducted comparative study, estimating impact of scaling up maternal, newborn and child health interventions of “World Vision’s Campaign for Every Child: WASH Program” by using computer-based modeling software, Lives Saved Tool (LiST) in three countries, Zambia, Malawi and Mozambique in Southern Africa Region.  
