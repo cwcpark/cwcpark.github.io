@@ -14,8 +14,8 @@ __First Aid Certificates__
 International Health, Program in Global Disease Epidemiology and Control  
 
 __JHSPH Certificates:__  
-`May 2015` 1. Public Health Informatics, Department of Health Policy and Management \ 
-`May 2014` 2. Health Finance and Management, Department of Health Policy and Management \
+`May 2015` 1. Public Health Informatics, Department of Health Policy and Management   
+`May 2014` 2. Health Finance and Management, Department of Health Policy and Management  
 
 ### University of Utah  
 `Aug. 2013`  1. Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology  
