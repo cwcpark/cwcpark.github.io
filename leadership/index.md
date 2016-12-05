@@ -14,12 +14,14 @@ __Young Generation Technical & Leadership Conference 2012, 2013, 2014, U.S.__
 * Won Best Essay Award, “Africa with Us,” 1st Place Prize in recognition of exceptional achievement in Los Angeles, CA.  
 * Organized Graduate Track Committee for Korean-American young professionals and students. Motivated students to prepare and present their own research topics to audience and scheduled guest speaker sessions in Houston, TX.  
 
+
 ### Staff Sergeant & Airman Representative (Delta 31) (May 2008 - July 2010)
 
 __Republic of Korea Air Force, South Korea__  
 
 * Served full-time at Republic of Korea Air Force more than two years in Daegu, South Korea. Established mission driven-solutions with fellow soldiers for developing communication loop between subordinates and their superiors.  
 * Named exemplary Airman (Dec. 2009). Received prize for Short Novel: “The Dance,” runner-up at Ministry of National Defense Literature Contest (Nov. 2009). Won first place in Book Report Speech Contest (Nov. 2009). Won third place in Patriotism Speech Contest (July 2009).   
+
 
 ### Local Committee President & Human Resource National Vice President (Oct. 2004 - Sept. 2006)
 
