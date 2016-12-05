@@ -27,7 +27,7 @@ __Milken Institute School of Public Health, George Washington University__
 
 
 ### Family Mentor  
-`June 2015-Feb.2016` __International Rescue Committee (IRC): Mentor Program for Refuge Family,	Baltimore, Catonsville, MD__  
+`June2015-Feb.2016` __International Rescue Committee (IRC): Mentor Program for Refuge Family,	Baltimore, Catonsville, MD__  
 
 * Coached Eritrean refugee family by teaching English, mathematics, and science, conducting employment training, and connecting to social/health services to help them adjust to new environment in Baltimore. Recruited new IRC family mentors to extend outreach to refugee populations in Baltimore and Catonsville.  
 * Executed free health care and medical activities for 700 resettled refugees in Baltimore’s Nepalese and Bhutanese community, one of the largest refugee groups in the U.S.  
