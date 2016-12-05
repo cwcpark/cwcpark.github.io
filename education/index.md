@@ -21,7 +21,7 @@ International Health, Program in Global Disease Epidemiology and Control
 
 
 __JHSPH Certificates:__  
-1. Public Health Informatics, Department of Health Policy and Management `May 2015`
+1. Public Health Informatics, Department of Health Policy and Management `May 2015`\\
 2. Health Finance and Management, Department of Health Policy and Management `May 2014`
 
 
