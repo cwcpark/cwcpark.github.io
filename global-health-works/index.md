@@ -15,7 +15,6 @@ __Milken Institute School of Public Health, George Washington University__
 
 ### Consultant  
 `Oct.2015-Present` __Multi-Organization’s Community-Based Impact-Oriented (CBIO) Child Survival Projects__  
-
 * Conduct independent study to estimate impact of CBIO Child Survival Projects for Cambodia (World Relief), Guatemala (Curamericas Global), and Mozambique (Food for the Hungry International). Enhance quantitative analysis to estimate reduction in mortality by intervention, number of under-5 cases averted by cause relative to impact year, additional death prevented, and percent reduction of stunting and wasting by using LiST (PI: Dr. Henry Perry, JHSPH).  
 
 
