@@ -20,7 +20,7 @@ __Milken Institute School of Public Health, George Washington University__
 
 
 ### Consultant  
-`Aug.2015-Mar.2016` __Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Training, Washington, D.C.__  
+`Aug.2015-Mar.2016` __Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education & Training, Washington, D.C.__
 
 * Provided technical assistant to conduct mixed methods pre-post study for “Multi-Country GSD Education & Training,” granted by the United States President’s Emergency Plan for AIDS Relief (PEPFAR). Operated research team to measure knowledge and attitude of PEPFAR staff, local government staff, United Nations staff, and external partners towards health equity and human rights for gender and sexual minorities: lesbian, gay, bisexual and transgender (LGBT) and men who have sex with men (MSM).  
 * Conducted high-quality quantitative analytical work to interpret 2,825 participants’ data by using statistical software, STATA. Produced written, tabular and visual materials for research reports and presentations to evaluate GSD Trainings in 38 selected developing countries, with collaboration from JHSPH (PI: Dr. Tonia Poteat, JHSPH).  
