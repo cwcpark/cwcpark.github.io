@@ -29,7 +29,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
+	margin-bottom: 0em;
 	float: none;
 	display: block;
 	@include font-rem(24);
@@ -50,7 +50,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
+	margin-bottom: 0em;
 	float: none;
 	display: block;
 	@media #{$small} {
@@ -238,7 +238,7 @@ $button-size: 1.5rem;
 		@include grid(12,10);
 		@include prefix(12,1);
 		@include suffix(12,1);
-		margin-bottom: 2em;
+		margin-bottom: 0em;
 		@media #{$small} {
 			@include grid(12,6);
 			@include prefix(12,0);
@@ -256,7 +256,7 @@ $button-size: 1.5rem;
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 2em;
+	margin-bottom: 0em;
 	@media #{$small} {
 		@include grid(12,6);
 		@include prefix(12,0);
@@ -273,7 +273,7 @@ $button-size: 1.5rem;
 	}
 	article {
 		h2 {
-			margin-bottom: 4px;
+			margin-bottom: 0px;
 			@include font-rem(20);
 			&.link-post {
 				margin-bottom: 0px + $doc-line-height;
@@ -292,7 +292,7 @@ $button-size: 1.5rem;
 /* Large feature header image */
 .image-wrap {
 	position: relative;
-	margin-bottom: 2em;
+	margin-bottom: 0em;
 	@include clearfix;
 	&:after {
 		content: " ";
@@ -359,7 +359,7 @@ $button-size: 1.5rem;
 /* Default social media links in author sidebar */
 .author-social {
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   @include font-rem(14);
   color: $black;
   &:visited {
@@ -396,13 +396,13 @@ $button-size: 1.5rem;
 		}
 		h3 {
 			margin-top: 10px;
-			margin-bottom: 10px;
+			margin-bottom: 0px;
 		}
 		p {
-			margin-bottom: 20px;
+			margin-bottom: 0px;
 		}
 		.author-social {
-			margin-bottom: 5px;
+			margin-bottom: px;
 		}
 	}
 	@media #{$large} {
@@ -623,7 +623,7 @@ $button-size: 1.5rem;
 	}
 	h4 {
 		@include font-rem(14);
-		margin-bottom: 10px;
+		margin-bottom: 0px;
 		text-transform: uppercase;
 	}
 }
@@ -667,7 +667,7 @@ $button-size: 1.5rem;
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 2em;
+	margin-bottom: 0em;
 	@media #{$small} {
 		@include grid(12,6);
 		@include prefix(12,3);
@@ -724,7 +724,7 @@ $button-size: 1.5rem;
 #goog-wm-qt {
 	width: auto;
 	margin-right: 10px;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	padding: 8px 20px;
 	display: inline-block;
 	@include font-rem(14);
