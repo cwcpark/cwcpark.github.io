@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Weblog Link: <a href="http://africawithcharles.blogspot.com/" target="_blank"> Africa with Us (May 2014 - Present)</a>
+### Weblog Link:
 
 * Share my global and domestic experiences about global health leadership, health education, immigrant and refugee health, gender equality and human rights in personal blog. Posted 164 stories as of October 29th 2016.
 
