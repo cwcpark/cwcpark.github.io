@@ -10,4 +10,4 @@ layout: page
 ### Working Papers
 
 1. __Park, C.__, Perry, H. “Monitoring and Evaluation of World Relief Cambodia Project  
-2. __Park, C.__ Lessons Learned from Ebola Outbreak in West Africa during 2014-2015
+2. __Park, C.__ Lessons Learned from Ebola Outbreak in West Africa during 2014-2016
