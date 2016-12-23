@@ -7,8 +7,6 @@ layout: page
 2. Martirosyan, A. & __Park, C.__ “How to Use Lives Saved Tool at Subnational Level?” at BMC Public Health  
 3. Poteat, T., __Park, C.__, Juan, D., Diego, S. & Vazzano, A. “Changing Heart and Minds: Results from a Multi-Country Gender and Sexual Diversity Education & Training” at International Journal of Epidemiology  
 
-
-
 ### Working Papers
 
 1. __Park, C.__, Perry, H. “Monitoring and Evaluation of World Relief Cambodia Project  
