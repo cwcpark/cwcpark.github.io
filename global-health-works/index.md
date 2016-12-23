@@ -3,9 +3,7 @@ layout: page
 ---
 
 ### Graduate Teaching Assistance
-<p style="
-    height: 20px;
-"><code class="highlighter-rouge"><strong>The Milken Institute School of Public Health, The George Washington University</strong></p> 
+__Milken Institute School of Public Health, George Washington University__  
 
 1. Fall 2016  
 * Comparative Global Health Systems (with Dr. Seble Frehywot)  
