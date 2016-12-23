@@ -2,7 +2,6 @@
 layout: page
 ---
 
-### Organizer of Science Conference
 
 `Mar.2012-Jan.2014` __Young Generation Technical & Leadership Conference 2012, 2013, 2014, U.S.__  
 
