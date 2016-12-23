@@ -99,7 +99,7 @@ a > code:hover, a > code:focus {
 /* First level of nav */
 .bs-sidenav {
     margin-top: 30px;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
     padding-top:    10px;
     padding-bottom: 10px;
     border-radius: 5px;
@@ -127,7 +127,7 @@ a > code:hover, a > code:focus {
 /* Nav: second level (shown on .active) */
 .bs-sidebar .nav .nav {
     display: none; /* Hide by default, but at >768px, show it */
-    margin-bottom: 0px;
+    margin-bottom: 8px;
 }
 .bs-sidebar .nav .nav > li > a {
     padding-top:    3px;
