@@ -3,7 +3,9 @@ layout: page
 ---
 
 ### Graduate Teaching Assistance
-__Milken Institute School of Public Health, George Washington University__  
+<p style="
+    height: 0px;
+"><strong>Milken Institute School of Public Health, George Washington University</strong></p>
 
 1. Fall 2016  
 * Comparative Global Health Systems (with Dr. Seble Frehywot)  
@@ -60,7 +62,7 @@ __Milken Institute School of Public Health, George Washington University__
 
 ### Research Assistant for Public Health Informatics  
 <p style="
-    height: 20px;
+    height: 0px;
 "><code class="highlighter-rouge">Jan.2015-May2015</code> <strong>JHSPH: mobile Health (mHealth) Project in Mali,	Baltimore, MD</strong></p>
 
 * Designed, conducted quasi-experimental study, “Virtual Community Health Services for Equity and Quality in Health Care in Mali,” granted by National Institutes of Health (R21). Developed mHealth intervention package and assessed effectiveness of intervention package for community health workers in the Sélingué Health District, Mali.  
@@ -69,7 +71,7 @@ __Milken Institute School of Public Health, George Washington University__
 
 ### Global Health Fellow & Counselor  
 <p style="
-    height: 20px;
+    height: 0px;
 "><code class="highlighter-rouge">May2014-June2015</code> <strong>World Vision International</strong></p>  
 
 1. Water, Sanitation, and Hygiene (WASH) Program	Zambia, Malawi, Mozambique, U.S.  
