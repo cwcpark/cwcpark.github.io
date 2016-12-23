@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 ---
 ### Weblog Link: <a href="http://africawithcharles.blogspot.com/" target="_blank"> Africa with Us (May 2014 - Present)</a>
 
