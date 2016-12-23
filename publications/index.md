@@ -7,7 +7,12 @@ layout: page
 2. Park, C. Oral presentation, “World Vision Global Health Fellowship Program experience in five African countries” at World Vision International’s Global Communities of Practice meeting on January 14, 2015.  
 
 
+<<<<<<< HEAD
 ### Professional Memberships  
 1. CORE Group Member (Since Sept. 2015)  
 2. American Public Health Association Professional (APHA) Member (Since June 2015)  
 3. Christian Connections for International Health (CCIH) Member (Since May 2015)  
+=======
+1. __Park, C.__, Perry, H. “Monitoring and Evaluation of World Relief Cambodia Project  
+2. __Park, C.__ Lessons Learned from Ebola Outbreak in West Africa during 2014-2016
+>>>>>>> origin/master
