@@ -7,7 +7,7 @@ layout: page
 
 __First Aid Certificates__  
 `Nov.2016` 1. Adult and Pediatric First Aid/CPR/AED, American Red Cross  
-2. Youth Mental Health First Aid USA, National Council for Behavioral Health
+`Nov.2016` 2. Youth Mental Health First Aid USA, National Council for Behavioral Health
 
 ### Johns Hopkins Bloomberg School of Public Health (JHSPH)  
 `May2015` Master of Science in Public Health (MSPH)
@@ -18,5 +18,5 @@ __JHSPH Certificates:__
 `May2014` 2. Health Finance and Management, Department of Health Policy and Management  
 
 ### University of Utah  
-`Aug.2013`  1. Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology  
-2. Bachelor of Science (BS), International Studies, Program in Global Health                                    
+`Aug.2013` 1. Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology  
+`Aug.2013` 2. Bachelor of Science (BS), International Studies, Program in Global Health                                    
