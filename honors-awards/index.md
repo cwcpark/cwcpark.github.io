@@ -11,7 +11,6 @@ layout: page
 5. `May2012` __Korean-American Scientists and Engineers Association Scholarship__  
 6. `Winter2011` __Study Abroad Scholarship for Thailand Health Promotion__, University of Utah   
 
-
 ### Honors
 
 1. `May2013` Selected as Distinguished Alumni of College of Humanities, University of Utah  
