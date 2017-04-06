@@ -4,7 +4,7 @@ layout: page
 
 ### Presentations  
 1. Park, C. Poster presentation, "A Comparative Study on the Impact Evaluation of World Vision’s Water, Sanitation and Hygiene Program in Malawi, Mozambique, and Zambia: Analyses Using Lives Saved Tool" at George Washington Health & Medicine Research Day, April 5, 2017.
-link:http://hsrc.himmelfarb.gwu.edu/gw_research_days/2017/GWSPH/58/[Go to the abstract and poster]
+[Go to the abstract and poster](http://hsrc.himmelfarb.gwu.edu/gw_research_days/2017/GWSPH/58/)
 
 2. Park, C. Oral presentation, “Lives Saved Tool Analysis: World Vision’s water, sanitation and hygiene program in Southern Africa Region” at World Vision International’s Global Communities of Practice meeting, June 30, 2015.  
 
