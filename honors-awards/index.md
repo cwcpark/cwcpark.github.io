@@ -1,9 +1,6 @@
 ---
 layout: page
 ---
-
-### Scholarships
-
 1. `Fall2016-Spring2018` __Award Winner of Graduate Assistantship with University Fellowship (fully funded scholarship)__, George Washington University  
 2. `2012-13 Academic Year` __Inaugural International Center Scholarship__, University of Utah  
 3. `2012-13 Academic Year` __College of Humanities Scholarship__, University of Utah      
