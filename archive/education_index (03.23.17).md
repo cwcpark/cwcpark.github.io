@@ -7,6 +7,9 @@ layout: page
     height: 20px;
 "><code class="highlighter-rouge">Aug.2016-Present</code> Doctor of Public Health (DrPH) Student &amp; Graduate Teaching Assistant, Department of Global Health</p>
 
+__HarvardX Certificates for R Programming:__
+Statistics and R, Introduction to Linear Models and Matrix Algebra, Statistical Inference and Modeling for High-throughput Experiments, High-Demensional Data Analysis
+
 __First Aid Certificates__  
 `Nov.2016` 1. Adult and Pediatric First Aid/CPR/AED, American Red Cross  
 2. Youth Mental Health First Aid USA, National Council for Behavioral Health
