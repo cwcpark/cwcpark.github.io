@@ -1,7 +1,7 @@
 ---
 layout: page  
 ---
-### Milken Institute School of Public Health, George Washington University  
+Milken Institute School of Public Health, George Washington University  
 `Aug.2016-Present` Doctor of Public Health (DrPH) Student Graduate Teaching Assistant, Department of Global Health
 
 __HarvardX Certificates for R Programming:__  
