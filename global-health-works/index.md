@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Graduate Teaching Assistance
+
 __Milken Institute School of Public Health, George Washington University__
 
 1. Fall 2016  
