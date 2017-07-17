@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Manuscripts under Reviews  
+
 1. __Park, C.__, Martirosyan, A., Jones, E., Labat, A., Tam, Y., & Opong, E. “Lives Saved Tool (List) Analysis for Comparative Study: World Vision’s Water, Sanitation, and Hygiene Program in Malawi, Mozambique and Zambia” at BMC Public Health  
 
 2. __Park, C.__ "Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa: What should the WHO do to respond to
