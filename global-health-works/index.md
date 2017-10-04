@@ -5,12 +5,13 @@ layout: page
 ### Graduate Teaching Assistance
 __Milken Institute School of Public Health, George Washington University__
 
-1. Fall 2016  
-* Comparative Global Health Systems (with Dr. Seble Frehywot)  
-* Public Health in Complex Emergencies (with Dr. Ron Waldman)  
-2. Spring 2017  
-* Global Health Quantitative Research Methods (with Dr. Jack Sandberg)  
-* Nutrition, Food Security, and Communicable Disease Control on Complex Emergencies (with Dr. Ron Waldman)  
+* Comparative Global Health Systems (Fall 2016)  
+* Nutrition, Food Security, and Communicable Disease Control on Complex Emergencies (Spring 2017)  
+* Global Health Quantitative Research Methods (Spring 2017, Summer 2017)
+* Global Health Program Development & Implementation (Summer 2017)
+* Global Health Program Management (Summer 2017)
+* Public Health in Complex Emergencies (Fall 2016, Fall 2017)  
+* Global Health Frameworks (Fall 2017)
 
 
 ### Consultant  
