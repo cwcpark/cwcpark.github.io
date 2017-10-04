@@ -1,7 +1,9 @@
 ---
 layout: page  
-title: Education
 ---
+
+# Education
+
 ### Milken Institute School of Public Health, George Washington University  
 `Aug.2016-Present` Doctor of Public Health (DrPH) Student Graduate Teaching Assistant, Department of Global Health
 
