@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Global Health Works
+
 ### Graduate Teaching Assistance
 __Milken Institute School of Public Health, George Washington University__
 
