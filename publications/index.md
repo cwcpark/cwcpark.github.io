@@ -7,9 +7,7 @@ layout: page
 ### Selected Publications
 1. Poteat, T., __Park, C.__, Solares, D., Williams, J., Wolf, R., Vazzano, A., Dent, J., Gibbs, A., & Toiv, N. “Changing Heart and Minds: Results from a Multi-Country Gender and Sexual Diversity Training” at International Journal of Epidemiology at PLoS One  
 
-
-### Manuscripts under Reviews  
-1. __Park, C.__, Martirosyan, A., Jones, E., Labat, A., Tam, Y., & Opong, E. “Lives Saved Tool (List) Analysis for Comparative Study: World Vision’s Water, Sanitation, and Hygiene Program in Malawi, Mozambique and Zambia” at BMC Public Health  
+2. __Park, C.__, Martirosyan, A., Jones, E., Labat, A., Tam, Y., & Opong, E. “Lives Saved Tool (List) Analysis for Comparative Study: World Vision’s Water, Sanitation, and Hygiene Program in Malawi, Mozambique and Zambia” (In press at BMC Public Health)  
 
 ### Working Papers  
 1. __Park, C.__, & Perry, H. "Monitoring and Evaluation of World Relief Cambodia Project"  
