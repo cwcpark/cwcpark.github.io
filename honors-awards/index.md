@@ -10,7 +10,7 @@ layout: page
 
 ### Literacy Awards
 1. `Jan. 2013` __Ygnite 2013 Best Essay Award: 1st place__, 9th KSEA YGTLC conference   
-2. `Nov. 2009` __	8th Military Literacy Award: Runner-up for novel__, Ministry of National Defense in Republic of Korea  
+2. `Nov. 2009` __8th Military Literacy Award: Runner-up for novel__, Ministry of National Defense in Republic of Korea  
 
 ### Awards at Republic of Korea Air Force
 1. `Dec. 2009` __Commendation__, Air Defense Control Command, Area 32 Master Control & Reporting Center
