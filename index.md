@@ -12,6 +12,7 @@ Doctor of Public Health (DrPH) candidate, research assistant, and graduate teach
 
 * Preparedness, Surveillance, and Response to Emerging and Re-emerging Infectious Diseases
 * Monitoring and Evaluation of Maternal and Child Health Projects in Sub-Saharan Africa
+* Health Education
 * Comparative Global Health Systems
 * Humanitarian Aid and Development Assistance
 * Health Finance and Management, Health Economics
