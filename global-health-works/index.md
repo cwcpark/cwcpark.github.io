@@ -5,31 +5,44 @@ layout: page
 # Global Health Works
 
 ### Graduate Teaching Assistance
-__Milken Institute School of Public Health, George Washington University__
+`Fall 2016-Present` __Milken Institute School of Public Health, George Washington University__
 
-* Comparative Global Health Systems (Fall 2016)  
-* Nutrition, Food Security, and Communicable Disease Control on Complex Emergencies (Spring 2017)  
-* Global Health Quantitative Research Methods (Spring 2017, Summer 2017)
-* Global Health Program Development & Implementation (Summer 2017)
-* Global Health Program Management (Summer 2017)
-* Public Health in Complex Emergencies (Fall 2016, Fall 2017)  
+* Global Vaccinology (2 courses: Residential & 2U Online) (Sum. 2019)
+* Leadership and Decision Making: A Skills Based Approach (Sum. 2019)
+* Global Health Programs and Approaches to the Control of Infectious Diseases (2U Online) (Spr. 2019)
+* Prevention and Control of Vector-Borne Diseases (Spr. 2019)
+* Global Health Study Design (Fall 2018)
+* Global Health Qualitative Research Methods  (Sum. 2018)
 * Global Health Frameworks (Fall 2017)
+* Public Health in Humanitarian Settings (Fall 2017)
+* Global Health Program Management and Leadership (Sum. 2017, 18)
+* Global Health Program Development & Implementation (Sum. 2017, 18, 19, Spr. 2018)
+* Nutrition, Food & Communicable Diseases in Complex Emergency (Spr. 2017)
+* Global Health Quantitative Research Methods (Spr. 2017, 18, Sum. 2017, 18)
+* Comparative Global Health Systems (Fall 2016, 18)
+* Public Health in Complex Emergencies (Fall 2016)
 
 
-### Consultant  
-`Oct.2015-Present` __Multi-Organization’s Community-Based Impact-Oriented (CBIO) Child Survival Projects__
+### Research Assistant  
+`(Aug. 2018 – Present)` __Medical Diaspora and Hybrid Learning, The George Washington University__
+
+* Conduct research to investigate medical diaspora organizations and medical education system from low- and middle-income countries.
+
+`(Aug. 2018 – Present)` __Estimation of Excess Mortality from Hurricane Maria in Puerto Rico, The George Washington University__
+
+* Conduct quantitative analysis to classify numbers of underlying cause of death by ICD-10 Codes.
+
+`Oct.2015-Jan. 2017` __Multi-Organization’s Community-Based Impact-Oriented (CBIO) Child Survival Projects__
 
 * Conduct independent study to estimate impact of CBIO Child Survival Projects for Cambodia (World Relief), Guatemala (Curamericas Global), and Mozambique (Food for the Hungry International). Enhance quantitative analysis to estimate reduction in mortality by intervention, number of under-5 cases averted by cause relative to impact year, additional death prevented, and percent reduction of stunting and wasting by using LiST (PI: Dr. Henry Perry, JHSPH).  
 
-
-### Consultant  
 `Aug.2015-Mar.2016` __Palladium: Multi-Country Gender and Sexual Diversity (GSD) Education Training, Washington, D.C.__
 
 * Provided technical assistant to conduct mixed methods pre-post study for “Multi-Country GSD Education & Training,” granted by the United States President’s Emergency Plan for AIDS Relief (PEPFAR). Operated research team to measure knowledge and attitude of PEPFAR staff, local government staff, United Nations staff, and external partners towards health equity and human rights for gender and sexual minorities: lesbian, gay, bisexual and transgender (LGBT) and men who have sex with men (MSM).  
 * Conducted high-quality quantitative analytical work to interpret 2,825 participants’ data by using statistical software, STATA. Produced written, tabular and visual materials for research reports and presentations to evaluate GSD Trainings in 38 selected developing countries, with collaboration from JHSPH (PI: Dr. Tonia Poteat, JHSPH).  
 
 
-### Family Mentor  
+### Refuge Family Mentor  
 `June2015-Feb.2016` __International Rescue Committee (IRC): Mentor Program for Refuge Family,	Baltimore, Catonsville, MD__
 
 * Coached Eritrean refugee family by teaching English, mathematics, and science, conducting employment training, and connecting to social/health services to help them adjust to new environment in Baltimore. Recruited new IRC family mentors to extend outreach to refugee populations in Baltimore and Catonsville.  
