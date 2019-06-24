@@ -4,7 +4,7 @@ layout: page
 
 # Education
 
-### Milken Institute School of Public Health, George Washington University  
+### Milken Institute School of Public Health, The George Washington University  
 `Aug.2016-Present` Doctor of Public Health (DrPH) Candidate, Research Assistant, Graduate Teaching Assistant, Department of Global Health
 
 __Harvard T.H. Chan School of Public Health edX Certificates for R Programming:__  
@@ -22,6 +22,6 @@ __JHSPH Certificates:__
 `May2015` 1. Public Health Informatics, Department of Health Policy and Management   
 `May2014` 2. Health Finance and Management, Department of Health Policy and Management  
 
-### University of Utah  
+### The University of Utah  
 `Aug.2013` 1. Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology  
 `Aug.2013` 2. Bachelor of Science (BS), International Studies, Program in Global Health
