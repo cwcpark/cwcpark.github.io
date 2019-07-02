@@ -7,7 +7,7 @@ layout: page
 ### Publications (Peer-Reviewed)
 1. Frehywot, S., __Park, C.__, & Infanzon, A. (2019). [In Press] [Second Round of Revised & Resubmitted]. Medical diaspora: an underused entity in low- and middle- income countries’ health system development. Human Resources for Health.
 
-2. __Park, C.__, Martirosyan, A., Frehywot, S., Jones E., Labat, A., Tam, Y., & Opong, E. (2019). [In press] The modeling assessment of World Vision’s Water, Sanitation, and Hygiene Program in Southern Africa countries, Malawi, Mozambique, and Zambia: Analyses using Lives Saved Tool. Journal of Global Health Reports.
+2. __Park, C.__, Martirosyan, A., Frehywot, S., Jones E., Labat, A., Tam, Y., & Opong, E. (2019). The modeling assessment of World Vision’s Water, Sanitation, and Hygiene Program in Southern Africa countries, Malawi, Mozambique, and Zambia: Analyses using Lives Saved Tool. Journal of Global Health Reports.
 
 3. Sandberg, J., __Park, C.__, Rytina, S., Delaunay, V., Douillot, L., Boujija, Y., ... & Fatouhi, B. (2019). Social learning, influence, and ethnomedicine: Individual, neighborhood and social network influences on attachment to an ethnomedical cultural model in rural Senegal. Social Science & Medicine, 226, 87-95.
 
@@ -32,4 +32,4 @@ layout: page
 
 5. __Park, C.__ & McDermott, K. (2019). [Work in Progress]. Mapping geographical distribution and health status of Korean immigrants in the major metropolitan areas of the United States.
 
-6. __Park, C.__ & Opong, E. (2019). [Work in Progress]. The effectiveness of Water, Sanitation, and Hygiene Program in Southern Africa countries. 
+6. __Park, C.__ & Opong, E. (2019). [Work in Progress]. The effectiveness of Water, Sanitation, and Hygiene Program in Southern Africa countries.
