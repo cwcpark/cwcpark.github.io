@@ -30,3 +30,7 @@ layout: page
 
 ### Honors
 1. `Oct.2012` Selected as College of Humanities banner carrier, The University of Utah’s 15th President Inauguration  
+
+### Academic Honor Society
+1. Golden Key International Honour Society, The George Washington University (elected 2018)
+2. Phi Beta Kappa, The University of Utah (elected 2013)
