@@ -10,6 +10,9 @@ Doctor of Public Health (DrPH) candidate, research assistant, and graduate teach
 
 ## Current Interests and Projects:
 
+* Community Health, Immigrant health
+* Program development and implementation
+* Modeling Assessment of health interventions
 * Preparedness, Surveillance, and Response to Emerging and Re-emerging Infectious Diseases
 * Monitoring and Evaluation of Maternal and Child Health Projects in Sub-Saharan Africa
 * Health Education
