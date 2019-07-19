@@ -5,7 +5,7 @@ layout: page
 # Publications
 
 ### Publications (Peer-Reviewed)
-1. Frehywot, S., __Park, C.__, & Infanzon, A. (2019). [In Press] [Second Round of Revised & Resubmitted]. Medical diaspora: an underused entity in low- and middle- income countries’ health system development. Human Resources for Health.
+1. Frehywot, S., __Park, C.__, & Infanzon, A. (2019). [In Press] [Second Round of Revised & Resubmitted]. Medical diaspora: an underused entity in low- and middle- income countries’ health system development. Human Resources for Health, 17(1), 56.
 
 2. __Park, C.__, Martirosyan, A., Frehywot, S., Jones E., Labat, A., Tam, Y., & Opong, E. (2019). The modeling assessment of World Vision’s Water, Sanitation, and Hygiene Program in Southern Africa countries, Malawi, Mozambique, and Zambia: Analyses using Lives Saved Tool. Journal of Global Health Reports.
 
