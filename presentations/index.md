@@ -18,9 +18,4 @@ Park, C. (2015). World Vision Global Health Fellowship Program in five African c
 
 
 ### Professional Affiliations  
-Consortium of Universities for Global Health (CUGH)
-American Public Health Association (APHA)
-Christian Connections for International Health (CCIH)
-Unite For Sight
-CORE Group
-Korean-American Scientists and Engineers Association (KSEA)
+Consortium of Universities for Global Health (CUGH), American Public Health Association (APHA), Christian Connections for International Health (CCIH), Unite For Sight, CORE Group, Korean-American Scientists and Engineers Association (KSEA)
