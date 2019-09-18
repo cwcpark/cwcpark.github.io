@@ -18,19 +18,21 @@ layout: page
 3. `July 2009` __Patriotism Oratorical Contest: 3rd place__, Air Defense Control Command, Area 32 Master Control & Reporting Center
 
 ### Scholarships
-1. `May 2018` __GRA Health Initiatives Scholarship__, GRA Health Initiatives
-2. `May 2018` __KSEA-KUSCO Scholarship__, Korean-American Scientists and Engineers Association
-3. `Nov. 2017` __Capital Connection Fund__, The George Washington University  
-4. `Fall2016-Spring2018` __Award Winner of Graduate Assistantship with University Fellowship (fully funded scholarship)__, The George Washington University
-5. `2012-13 Academic Year` __Inaugural International Center Scholarship__, University of Utah  
-6. `2012-13 Academic Year` __College of Humanities Scholarship__, The University of Utah      
-7. `Summer2012` __Study Abroad Scholarship for Ghana Global Health__, The University of Utah  
-8. `May2012` __Yoon Soo Park Scholarship__, Korean-American Scientists and Engineers Association
-9. `Winter2011` __Study Abroad Scholarship for Thailand Health Promotion__, The University of Utah   
+1. `July 2019` __The Korean Honor Scholarship__, The Embassy of the Republic of Korea in the USA
+2. `May 2018` __GRA Health Initiatives Scholarship__, GRA Health Initiatives
+3. `May 2018` __KSEA-KUSCO Scholarship__, Korean-American Scientists and Engineers Association
+4. `Nov. 2017` __Capital Connection Fund__, The George Washington University  
+5. `Fall2016-Spring2018` __Award Winner of Graduate Assistantship with University Fellowship (fully funded scholarship)__, The George Washington University
+6. `2012-13 Academic Year` __Inaugural International Center Scholarship__, University of Utah  
+7. `2012-13 Academic Year` __College of Humanities Scholarship__, The University of Utah      
+8. `Summer2012` __Study Abroad Scholarship for Ghana Global Health__, The University of Utah  
+9. `May2012` __Yoon Soo Park Scholarship__, Korean-American Scientists and Engineers Association
+10. `Winter2011` __Study Abroad Scholarship for Thailand Health Promotion__, The University of Utah   
 
 ### Honors
 1. `Oct.2012` Selected as College of Humanities banner carrier, The University of Utah’s 15th President Inauguration  
 
 ### Academic Honor Society
-1. Golden Key International Honour Society, The George Washington University (elected 2018)
+1. Honor Society, The George Washington University (elected 2019)
+2. Golden Key International Honour Society, The George Washington University (elected 2018)
 2. Phi Beta Kappa, The University of Utah (elected 2013)
