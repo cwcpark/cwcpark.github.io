@@ -11,17 +11,17 @@ __Harvard T.H. Chan School of Public Health edX Certificates for R Programming:_
 `July2017` Statistics and R, Introduction to Linear Models and Matrix Algebra, Statistical Inference and Modeling for High-throughput Experiments, High-Dimensional Data Analysis
 
 __First Aid Certificates:__  
-`Nov.2016` 1. Adult and Pediatric First Aid/CPR/AED, American Red Cross  
-`Nov.2016` 2. Youth Mental Health First Aid USA, National Council for Behavioral Health
+`Nov.2016` Adult and Pediatric First Aid/CPR/AED, American Red Cross  
+`Nov.2016` Youth Mental Health First Aid USA, National Council for Behavioral Health
 
 ### Johns Hopkins Bloomberg School of Public Health (JHSPH)  
 `May2015` Master of Science in Public Health (MSPH)
 International Health, Program in Global Disease Epidemiology and Control
 
 __JHSPH Certificates:__  
-`May2015` 1. Public Health Informatics, Department of Health Policy and Management   
-`May2014` 2. Health Finance and Management, Department of Health Policy and Management  
+`May2015` Public Health Informatics, Department of Health Policy and Management   
+`May2014` Health Finance and Management, Department of Health Policy and Management  
 
 ### The University of Utah  
-`Aug.2013` 1. Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology  
-`Aug.2013` 2. Bachelor of Science (BS), International Studies, Program in Global Health
+`Aug.2013` Bachelor of Science (BS), Biology, Program in Environmental and Organismal Biology  
+`Aug.2013` Bachelor of Science (BS), International Studies, Program in Global Health
