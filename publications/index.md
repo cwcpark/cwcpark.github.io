@@ -15,13 +15,20 @@ layout: page
 
 
 ### Manuscripts Under Review
-1. __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment on mental health and work performance among South Korean immigrants in the United States: Mixed Methods Study. Journal of Immigrant & Refugee Studies.
+1. __Park, C.__ (2019). [Submitted]. Nosocomial infection of MERS-CoV in South Korea: Its control strategies and recommendations for the future outbreak. Journal of Global Health Reports.
 
-2. __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study. Journal of Immigrant and Minority Health.
+2. __Park, C.__ (2019). [Submitted]. Traditional funeral and burial rituals and the 2014-2016 Ebola outbreak in West Africa – Social and behavioral communication interventions to prevent future infectious diseases. Anthropological Quarterly.
 
-3. Roberson, J., Berrigan, M., Folkert, K., __Park, C.__, Ma, Y., Zajac, J., … & Lee, J. (2019). [Submitted]. Outcomes in Patients with Diabetes Mellitus Type 2 and Class I Obesity Undergoing Surgical vs. Medical Management: Systematic Review and Meta-Analysis. Surgery for Obesity and Related Diseases.
+3. __Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa. Journal of Public Health in Africa.
+
+4. __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment on mental health and work performance among South Korean immigrants in the United States: Mixed Methods Study. Journal of Immigrant & Refugee Studies.
+
+5. __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study. Journal of Immigrant and Minority Health.
+
+6. Roberson, J., Berrigan, M., Folkert, K., __Park, C.__, Ma, Y., Zajac, J., … & Lee, J. (2019). [Submitted]. Outcomes in Patients with Diabetes Mellitus Type 2 and Class I Obesity Undergoing Surgical vs. Medical Management: Systematic Review and Meta-Analysis. Surgery for Obesity and Related Diseases.
 
 ### Working Manuscripts
+
 1. __Park, C.__, Migliaccio, G., Sandberg, J., & Regenstein, M. (2019). [Current Research, Dissertation Paper 1]. Core competencies for Doctor of Public Health Education at 37 schools from the Association of School of Public Health in the United States.
 
 2. __Park, C.__, Migliaccio, G., Sandberg, J., & Regenstein, M. (2019). [Current Research, Dissertation Paper 2]. The trend of doctoral degrees in public health in the United States.
