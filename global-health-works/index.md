@@ -5,8 +5,8 @@ layout: page
 # Global Health Works
 
 ### Graduate Teaching Assistance
-`Fall 2016-Present` __24 Graduate-Level Courses (14 different courses), Milken Institute School of Public Health, The George Washington University__
-
+__24 Graduate-Level Courses (14 different courses), Milken Institute School of Public Health, The George Washington University__
+`Fall 2016-Present`   
 * Global Vaccinology (2 courses: Residential & 2U Online) (Sum. 2019)
 * Leadership and Decision Making: A Skills Based Approach (Sum. 2019)
 * Global Health Programs and Approaches to the Control of Infectious Diseases (2U Online) (Spr. 2019)
