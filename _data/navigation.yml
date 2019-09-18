@@ -1,8 +1,5 @@
 # Site navigation links
 
-- title: Blog
-  url: http://africawithcharles.blogspot.com/
-
 - title: Education
   url: /education/
 
@@ -20,3 +17,6 @@
 
 - title: Leadership
   url: /leadership/
+
+- title: Blog
+  url: http://africawithcharles.blogspot.com/
