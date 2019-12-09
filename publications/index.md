@@ -17,11 +17,11 @@ Poteat, T., __Park, C.__, Solares, D., Williams, J. K., Wolf, R. C., Metheny, N.
 ### Manuscripts Under Review
 __Park, C.__ (2019). [Submitted]. Nosocomial infection of MERS-CoV in South Korea: Its control strategies and recommendations for the future outbreak. Journal of Global Health Reports.   
 
-__Park, C.__ (2019). [Submitted]. Traditional funeral and burial rituals and the 2014-2016 Ebola outbreak in West Africa – Social and behavioral communication interventions to prevent future infectious diseases. Anthropological Quarterly.   
+__Park, C.__ (2019). [Submitted]. Traditional funeral and burial rituals and the 2014-2016 Ebola outbreak in West Africa – Social and behavioral communication interventions to prevent future infectious diseases. Journal of Health and Social Sciences.   
 
 __Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa. Journal of Public Health in Africa.   
 
-__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment on mental health and work performance among South Korean immigrants in the United States: Mixed Methods Study. Journal of Immigrant & Refugee Studies.   
+__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment on emotional well-being and work (or school) performance among South Korean young adult immigrants in the United States: mixed methods study. Journal of Psychology and Theology.   
 
 __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study. Journal of Immigrant and Minority Health.   
 
