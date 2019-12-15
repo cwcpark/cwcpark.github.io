@@ -21,7 +21,7 @@ __Park, C.__ (2019). [Submitted]. Traditional funeral and burial rituals and the
 
 __Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa. Journal of Public Health in Africa.   
 
-__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment on emotional well-being and work (or school) performance among South Korean young adult immigrants in the United States: mixed methods study. Journal of Psychology and Theology.   
+__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment on emotional well-being and work (or school) performance among South Korean young adult immigrants in the United States: mixed methods study. International Journal of Migration, Health and Social Care.   
 
 __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study. Journal of Immigrant and Minority Health.   
 
