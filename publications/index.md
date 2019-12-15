@@ -23,7 +23,7 @@ __Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organiza
 
 __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment on emotional well-being and work (or school) performance among South Korean young adult immigrants in the United States: mixed methods study. International Journal of Migration, Health and Social Care.   
 
-__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study. Journal of Immigrant and Minority Health.   
+__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment among South Korean young adult immigrants in the United States: a mixed methods study.   
 
 Roberson, J., Berrigan, M., Folkert, K., __Park, C.__, Ma, Y., Zajac, J., … & Lee, J. (2019). [Submitted]. Outcomes in Patients with Diabetes Mellitus Type 2 and Class I Obesity Undergoing Surgical vs. Medical Management: Systematic Review and Meta-Analysis. Surgery for Obesity and Related Diseases.
 
