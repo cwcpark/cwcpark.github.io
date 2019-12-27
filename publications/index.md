@@ -5,7 +5,7 @@ layout: page
 # Publications
 
 ### Publications (Peer-Reviewed)
-__Park, C.__ (2020). [In Press]. Nosocomial infection of MERS-CoV in South Korea: Its control strategies and recommendations for the future outbreak. Journal of Global Health Reports.   
+__Park, C.__ (2020). [In Press]. MERS-CoV infection in South Korea and strategies for possible future outbreak: narrative review. Journal of Global Health Reports.   
 
 Frehywot, S., __Park, C.__, & Infanzon, A. (2019). Medical diaspora: an underused entity in low- and middle- income countries’ health system development. Human Resources for Health, 17(1), 56.   
 
