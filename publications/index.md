@@ -5,6 +5,8 @@ layout: page
 # Publications
 
 ### Publications (Peer-Reviewed)
+__Park, C.__ (2019). [Accepted]. Traditional funeral and burial rituals and the 2014-2016 Ebola outbreak in West Africa – Social and behavioral communication interventions to prevent future infectious diseases. Journal of Health and Social Sciences.   
+
 __Park, C.__ (2020). [In Press]. MERS-CoV infection in South Korea and strategies for possible future outbreak: narrative review. Journal of Global Health Reports.   
 
 Frehywot, S., __Park, C.__, & Infanzon, A. (2019). Medical diaspora: an underused entity in low- and middle- income countries’ health system development. Human Resources for Health, 17(1), 56.   
@@ -17,8 +19,6 @@ Poteat, T., __Park, C.__, Solares, D., Williams, J. K., Wolf, R. C., Metheny, N.
 
 
 ### Manuscripts Under Review
-__Park, C.__ (2019). [Submitted]. Traditional funeral and burial rituals and the 2014-2016 Ebola outbreak in West Africa – Social and behavioral communication interventions to prevent future infectious diseases. Journal of Health and Social Sciences.   
-
 __Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa.   
 
 __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment among South Korean young adult immigrants in the United States: A mixed methods study
