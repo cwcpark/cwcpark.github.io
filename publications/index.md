@@ -21,7 +21,7 @@ Poteat, T., __Park, C.__, Solares, D., Williams, J. K., Wolf, R. C., Metheny, N.
 ### Manuscripts Under Review
 __Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa.   
 
-__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment among South Korean young adult immigrants in the United States: A mixed methods study
+__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment among South Korean young adult immigrants in the United States: A mixed methods study.
 
 __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study.  
 
