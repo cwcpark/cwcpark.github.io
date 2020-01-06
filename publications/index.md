@@ -19,13 +19,13 @@ Poteat, T., __Park, C.__, Solares, D., Williams, J. K., Wolf, R. C., Metheny, N.
 ### Manuscripts Under Review
 __Park, C.__ (2019). [Submitted]. Traditional funeral and burial rituals and the 2014-2016 Ebola outbreak in West Africa – Social and behavioral communication interventions to prevent future infectious diseases. Journal of Health and Social Sciences.   
 
-__Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa. Journal of Public Health in Africa.   
+__Park, C.__ (2019). [Submitted]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa.   
 
 __Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of spiritual experience and church commitment among South Korean young adult immigrants in the United States: A mixed methods study
 
-__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study. Journal of Immigrant and Minority Health.   
+__Park, C.__ & Edberg, M. (2019). [Submitted]. The effects of Christian faith on successful living transition among South Korean immigrants in the United States: A qualitative study.  
 
-Roberson, J., Berrigan, M., Folkert, K., __Park, C.__, Ma, Y., Zajac, J., … & Lee, J. (2019). [Submitted]. Outcomes in Patients with Diabetes Mellitus Type 2 and Class I Obesity Undergoing Surgical vs. Medical Management: Systematic Review and Meta-Analysis. Surgery for Obesity and Related Diseases.
+Roberson, J., Berrigan, M., Folkert, K., __Park, C.__, Ma, Y., Zajac, J., … & Lee, J. (2019). [Submitted]. Outcomes in Patients with Diabetes Mellitus Type 2 and Class I Obesity Undergoing Surgical vs. Medical Management: Systematic Review and Meta-Analysis.
 
 ### Working Manuscripts
 
