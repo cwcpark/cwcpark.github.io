@@ -7,18 +7,11 @@ layout: page
 ### Milken Institute School of Public Health, The George Washington University  
 `Aug.2016-Present` Doctor of Public Health (DrPH) Candidate, Research Assistant, Graduate Teaching Assistant, Department of Global Health
 
-__Harvard T.H. Chan School of Public Health edX Certificates for R Programming:__  
-`July2017` Statistics and R, Introduction to Linear Models and Matrix Algebra, Statistical Inference and Modeling for High-throughput Experiments, High-Dimensional Data Analysis
-
-__First Aid Certificates:__  
-`Nov.2016` Adult and Pediatric First Aid/CPR/AED, American Red Cross  
-`Nov.2016` Youth Mental Health First Aid USA, National Council for Behavioral Health
-
 ### Johns Hopkins Bloomberg School of Public Health (JHSPH)  
 `May2015` Master of Science in Public Health (MSPH)
 International Health, Program in Global Disease Epidemiology and Control
 
-__JHSPH Certificates:__  
+__JHSPH Graduate Certificates:__  
 `May2015` Public Health Informatics, Department of Health Policy and Management   
 `May2014` Health Finance and Management, Department of Health Policy and Management  
 
