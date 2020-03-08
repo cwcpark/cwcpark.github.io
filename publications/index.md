@@ -5,7 +5,7 @@ layout: page
 # Publications
 
 ### Publications (Peer-Reviewed)
-__Park, C.__ (2020). [In Press]. Traditional funeral and burial rituals and Ebola outbreaks in West Africa: A narrative review of causes and strategy interventions. Journal of Health and Social Sciences.  
+__Park, C.__ (2020). Traditional funeral and burial rituals and Ebola outbreaks in West Africa: A narrative review of causes and strategy interventions. Journal of Health and Social Sciences. Advance online publication. doi: 10.19204/2020/trdt8
 
 __Park, C.__ (2020). MERS-CoV infection in South Korea and strategies for possible future outbreak: narrative review. Journal of Global Health Reports. 2020;4:e2019088.
 
