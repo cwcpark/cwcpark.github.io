@@ -2,7 +2,7 @@
 layout: home
 title: About Me
 tags: [about, about me, me, ]
-modified: 2019-06-24
+modified: 2021-12-23
 comments: true
 ---
 
@@ -10,6 +10,9 @@ Assistant Professor in the Department of Public Health and Recreation at San Jos
 
 ## Current Interests and Projects:
 
+* Social Epidemiology
+* Global Health
+* Mental Health
 * Community Health, Immigrant health
 * Program development and implementation
 * Modeling Assessment of health interventions
