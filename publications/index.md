@@ -6,11 +6,33 @@ layout: page
 
 ### Publications (Peer-Reviewed)
 
-#### (as of Dec 2021)
+#### (as of Sept 2023)
 
-Kang, Y., __Park, C.__, Young, A., & Kim, J. (2021). [In press]. Socio-economic disparity in food consumption among young children in eight South Asian and Southeast Asian countries. Nutrition Research and Practice.
+__Park, C.__, Shimada, S., & Angelica, P. (2023). The Impact of COVID-19 and Anti-immigration Policy on an Undocumented Student in the United States: A Qualitative Case Study. Journal of Global Health Reports.
 
-__Park, C.__ (2021). [In press]. Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa. Journal of Public Health in Africa.
+__Park, C.__, Delgado, C., & Irfan, A. (2023). Perspectives of the Doctor of Public Health (DrPH) education among students and alumni in the United States: a cross-sectional national online survey. BMC Public Health 23, 1558. PMID: 37587431.
+
+Kim, J., __Park, C.__, Matthew, F., Kim, Y., & Kim, B. (2023). Are certain types of leisure activities associated with happiness and life satisfaction among college students? World Leisure Journal, 1-14.
+
+__Park, C.__, & Shimada, S. (2023). The list of Doctor of Public Health (DrPH) programs in the United States: A descriptive review. HPHR. 2022;54. 10.54111/0001/BBB6.
+
+__Park, C.__, Fuller, M. M., Echevarria, T. M., Nguyen, K., Perez, D., Masood, H., Alsharif, T., & Worthen, M. (2023). A Participatory Study of College Students’ Mental Health during the First Year of the COVID-19 Pandemic. Frontiers Public Health. PMID: 37026129.
+
+Zhang, Ni., Tseng, H., Thai, J., Pagidipati, P., __Park, C.__, Madan, N., Assaf, H., & Ahmed, S., & Iwasaki, Y. (2023). Health communication needs for COVID-19 prevention and control among college students. Journal of American College Health. PMID: 36595622.
+
+__Park, C.__, & Shimada, S. (2022). The impact of changing political climate on international students in the United States during the COVID-19 pandemic: A qualitative study. BMC Public Health. PMID: 36447205.
+
+Li, H., Kim, Y., __Park, C.__, Kang, K., & Kang, Y. (2022). Gender-common and gender-specific determinants of child dietary diversity in eight Asia Pacific countries. Journal of Global Health, 12, 04058-04058. PMID: 36181506.
+
+__Park, C.__, & Shimada, S. (2022). Mental health of international students in the United States during the COVID-19 pandemic and its relevant political climate: A descriptive cross-sectional study. Journal of American College Health. PMID: 35882053.
+
+__Park, C.__ (2022). Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa. Journal of Public Health in Africa.
+
+Wetzler, E. A., __Park, C.__, Arroz, J. A., Chande, M., Mussambala, F., & Candrinho, B. (2022). Impact of mass distribution of insecticide-treated nets in Mozambique, 2012 to 2025: estimates of child lives saved using the Lives Saved Tool. PLOS Global Public Health, 2(4), e0000248.
+
+__Park, C.__, & Coles, E. (2022). The Impact of Student Debt on Career Choices among Doctor of Public Health Graduates in the United States: A Descriptive Analysis. International Journal of Environmental Research and Public Health, 19(8):4836.
+
+Kang, Y., __Park, C.__, Young, A., & Kim, J. (2021). Socio-economic disparity in food consumption among young children in eight South Asian and Southeast Asian countries. Nutrition Research and Practice. Nutrition Research and Practice, 16.
 
 __Park, C.__, Zhang, N., Madan, N., Tseng, H. Y., Assaf, H., Thai, J., ... & Pagidipati, P. (2021). How
 college students are coping with COVID-19: a qualitative study. Journal of American College Health, 1-9.
