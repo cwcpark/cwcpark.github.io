@@ -4,9 +4,7 @@ layout: page
 
 # Publications
 
-### Publications (Peer-Reviewed)
-
-#### (as of Sept 2023)
+### Peer-Reviewed Publications (as of Sept 2023)
 
 __Park, C.__, Shimada, S., & Angelica, P. (2023). The Impact of COVID-19 and Anti-immigration Policy on an Undocumented Student in the United States: A Qualitative Case Study. Journal of Global Health Reports.
 
