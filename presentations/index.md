@@ -49,11 +49,11 @@ __Park C.__ (2017). A Comparative Study on the Impact Evaluation of World Vision
 
 
 ### Professional Affiliations
-International Society of Global Health, 2020 – Present
-DrPH Coalition, 2020 – Present
-Consortium of Universities for Global Health (CUGH)   
-American Public Health Association (APHA)   
-Christian Connections for International Health (CCIH)   
-Unite For Sight   
-CORE Group   
-Korean-American Scientists and Engineers Association (KSEA)
+* International Society of Global Health, 2020 – Present
+* DrPH Coalition, 2020 – Present
+* Consortium of Universities for Global Health (CUGH)   
+* American Public Health Association (APHA)   
+* Christian Connections for International Health (CCIH)   
+* Unite For Sight   
+* CORE Group   
+* Korean-American Scientists and Engineers Association (KSEA)
