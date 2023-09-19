@@ -33,7 +33,8 @@ layout: page
 `Oct.2012` Selected as College of Humanities banner carrier, The University of Utah’s 15th President Inauguration  
 
 ### Academic Honor Society
-▪ Delta Omega Honorary Society in Public Health, The George Washington University (elected 2020)   
+▪ Sigma Xi – The Scientific Research Honor Society (elected 2021)
+▪	Delta Omega Honorary Society in Public Health, The George Washington University (elected 2020)   
 ▪ Honor Society, The George Washington University (elected 2019)   
 ▪ Golden Key International Honour Society, The George Washington University (elected 2018)   
 ▪ Phi Beta Kappa, The University of Utah (elected 2013)
