@@ -30,8 +30,8 @@ __Yoon Soo Park Scholarship__, Korean-American Scientists and Engineers Associat
 __Study Abroad Scholarship for Thailand Health Promotion__, The University of Utah     
 
 ### Academic Honor Society
-▪ Sigma Xi – The Scientific Research Honor Society (elected 2021)
-▪	Delta Omega Honorary Society in Public Health, The George Washington University (elected 2020)   
-▪ Honor Society, The George Washington University (elected 2019)   
-▪ Golden Key International Honour Society, The George Washington University (elected 2018)   
-▪ Phi Beta Kappa, The University of Utah (elected 2013)
+* Sigma Xi – The Scientific Research Honor Society (elected 2021)
+*	Delta Omega Honorary Society in Public Health, The George Washington University (elected 2020)   
+* Honor Society, The George Washington University (elected 2019)   
+* Golden Key International Honour Society, The George Washington University (elected 2018)   
+* Phi Beta Kappa, The University of Utah (elected 2013)
