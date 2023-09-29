@@ -6,6 +6,10 @@ layout: page
 
 ### Peer-Reviewed Publications (as of Sept 2023)
 
+Zhang, Ni., Ding, K., __Park, C.__, Vo, J., & Cantos, K. (2023). The Effect of Social Support on Social Media on Asian College Students’ Intention to Participate in Physical Activity in the U.S. Health Equity. 
+
+__Park, C.__, Zabala, P., & Trisnadi, A. (2023). COVID-19 vaccine and booster hesitancy among children aged 6 month-5 years, 5-11 years, and 12-17 years in the United States: An analytic cross-sectional study. Preventive Medicine Reports, 102436.
+
 __Park, C.__, Shimada, S., & Angelica, P. (2023). The Impact of COVID-19 and Anti-immigration Policy on an Undocumented Student in the United States: A Qualitative Case Study. Journal of Global Health Reports.
 
 __Park, C.__, Delgado, C., & Irfan, A. (2023). Perspectives of the Doctor of Public Health (DrPH) education among students and alumni in the United States: a cross-sectional national online survey. BMC Public Health 23, 1558.
@@ -22,7 +26,7 @@ __Park, C.__, & Shimada, S. (2022). The impact of changing political climate on 
 
 Li, H., Kim, Y., __Park, C.__, Kang, K., & Kang, Y. (2022). Gender-common and gender-specific determinants of child dietary diversity in eight Asia Pacific countries. Journal of Global Health, 12, 04058-04058.
 
-__Park, C.__, & Shimada, S. (2022). Mental health of international students in the United States during the COVID-19 pandemic and its relevant political climate: A descriptive cross-sectional study. Journal of American College Health. 
+__Park, C.__, & Shimada, S. (2022). Mental health of international students in the United States during the COVID-19 pandemic and its relevant political climate: A descriptive cross-sectional study. Journal of American College Health.
 
 __Park, C.__ (2022). Lessons learned from the World Health Organization (WHO)’s late initial response to the 2014-2016 Ebola outbreak in West Africa. Journal of Public Health in Africa.
 
