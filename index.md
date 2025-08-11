@@ -6,7 +6,7 @@ modified: 2021-12-23
 comments: true
 ---
 
-Assistant Professor in the Department of Public Health and Recreation at San José State University. Consultant and data analysis at global health consulting firm, Palladium. World Vision Global Health Fellow in five African countries, Sierra Leone, Tanzania, Zambia, Malawi, and Mozambique. Community health educator for water, sanitation, and hygiene (WASH) and nutrition in Ghana and for strengthening family program to prevent family violence and alcoholism in Thailand. Volunteer focusing on global health and environmental stewardship both domestically and internationally. Organizer of Young Generation Science Conference. Exemplary airman and reserve force of Republic of Korea Air Force. Leader of not-for-profit youth organization, AIESEC, with various international leadership experiences in South Korea, Taiwan, Japan, and Poland.
+Assistant Professor in the Department of Sociology, Anthropology, and Public Health at University of Maryland, Baltimore County. Global health practitioner for maternal and child health and water, sanitation, and hygiene (WASH) in six African countries, Ghana, Sierra Leone, Tanzania, Zambia, Malawi, and Mozambique. Community health educator for strengthening family program to prevent family violence and alcoholism in Thailand.  
 
 ## Current Interests and Projects:
 
